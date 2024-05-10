@@ -2,6 +2,8 @@ name: flutter_langdetect_example
 description: An example console application using the flutter_langdetect package.
 version: 1.0.0
 
+publish_to: 'none'
+
 environment:
   sdk: '>=2.12.0 <3.0.0'
 
